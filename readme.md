@@ -17,15 +17,10 @@ Bag Boy / Shop Shift helps the user find what they need FAST!  Create an entire 
 
 <H3>Technologies:</H3>
 -HTML/CSS
-
 -Firebase
-
 -MySQL
-
 -node.js
-
 -express server
-
 -handlebars
 
 <H3>Results:</H3>
