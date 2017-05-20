@@ -16,4 +16,5 @@ We recently realized exactly how much time is wasted tracking down our favorite 
 Bag Boy / Shop Shift helps the user find what they need FAST!  Create an entire shopping list and implement the search in moments!
 
 <H3>Results:</H3>
+
 The results you are looking for are happy grocery getters.
