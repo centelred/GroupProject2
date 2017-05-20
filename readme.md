@@ -2,7 +2,7 @@
 Bag Boy / Shop Shift
 
 <H3>Members:</H3>
-- Joshua Denison / Curtis Coddington / Lindsey Lupfer / Mary Knight -
+Joshua Denison / Curtis Coddington / Lindsey Lupfer / Mary Knight 
 
 <H3>Mission:</H3>
 To give shoppers a better shopping experience.  Utilizing a MySQL database, we will track where specific items are located in grocery stores.
