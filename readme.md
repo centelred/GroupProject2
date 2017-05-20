@@ -1,5 +1,5 @@
 <H3>Team Name:</H3>
-Bag Boy / Shop Shift
+Bag Boy
 
 <H3>Members:</H3>
 Joshua Denison / Curtis Coddington / Lindsey Lupfer / Mary Knight 
